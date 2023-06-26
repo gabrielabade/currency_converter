@@ -17,5 +17,6 @@
 <br>
 <br>
 <img src="https://github.com/gabrielabade/currency_converter/blob/6c495a7fbf939b714251dee3ef5365a3965a661f/assets/conversor-de-moedas-opcoes.png" alt="opcoes-moedas" width="400px"/>
+<img src="https://github.com/gabrielabade/currency_converter/blob/6c495a7fbf939b714251dee3ef5365a3965a661f/assets/conversor-de-moedas-opcoes.png" alt="opcoes-moedas" width="400px"/>
 
 </div>
