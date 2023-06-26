@@ -16,6 +16,6 @@
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo">
 <br>
 <br>
-<img src="https://github.com/gabrielabade/cell_phone_plan_landing_page/blob/master/img/versao-desktop-e-mobile.png?raw=true" alt="versao-desktop-e-mobile" width="550px"/>
+<img src="https://github.com/gabrielabade/currency_converter/blob/6c495a7fbf939b714251dee3ef5365a3965a661f/assets/conversor-de-moedas-opcoes.png" alt="versao-desktop-e-mobile" width="550px"/>
 
 </div>
