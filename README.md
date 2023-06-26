@@ -16,7 +16,9 @@
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo">
 <br>
 <br>
+<h2>Demonstração</h2>
+<br>
 <img src="https://github.com/gabrielabade/currency_converter/blob/6c495a7fbf939b714251dee3ef5365a3965a661f/assets/conversor-de-moedas-opcoes.png" alt="opcoes-moedas" width="400px"/>
-<img src="https://github.com/gabrielabade/currency_converter/blob/6c495a7fbf939b714251dee3ef5365a3965a661f/assets/conversor-de-moedas-opcoes.png" alt="opcoes-moedas" width="400px"/>
+<img src="https://github.com/gabrielabade/currency_converter/blob/b04ca6d9d772f1cb1008086214fdae31fe3e31c7/assets/conversor-de-moedas-dolar.png" alt="exemplo-dolar" width="400px"/>
 
 </div>
