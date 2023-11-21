@@ -9,19 +9,26 @@
 
 body {
   background-image: url(https://img.freepik.com/fotos-premium/fundo-com-dinheiro-textura-perfeita-de-notas-de-100-dolares-em-tonalidade-rosa-claro-da-moda_173948-5327.jpg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .logo {
   width: 200px;
-  display: block;
-  margin: 0px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 main {
   width: 375px;
-  background: #FFF6F9;
+  background: #fff6f9;
   border-radius: 20px;
-  margin: 0 auto 40px;
-  padding: 34px 14px 20px;
+  display: flex;
+  flex-direction: column;
+
+  gap: 10px;
+  padding: 20px;
 }
 
 label {
@@ -61,45 +68,46 @@ button {
   cursor: pointer;
 }
 
-button:hover{
-    opacity: 0.8;
+button:hover {
+  opacity: 0.8;
 }
 
-button:active{
-    opacity: 0.6;
+button:active {
+  opacity: 0.6;
 }
 
 section {
-    border: 2px solid #ff1493;
-    border-radius: 20px;
-    margin-top: 26px;
-    padding: 12px;
+  border: 2px solid #ff1493;
+  border-radius: 20px;
+  margin-top: 26px;
+  padding: 12px;
 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .arrow-img {
-    width: 40px;
-    height: 50px;
-    display: block;
-    margin: 15px 0;
+  width: 40px;
+  height: 50px;
+  display: block;
+  margin: 15px 0;
 }
 
-.currency-box{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 4px;
+.currency-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
 }
 
 .currency {
-    color: #ff87c7;
-    font-size: 14px;
+  color: #ff87c7;
+  font-size: 14px;
 }
-.currency-value, .currency-value-to-convert {
-    color: #ff1493;
-    font-size: 20px;
-    font-weight: 700;
+.currency-value,
+.currency-value-to-convert {
+  color: #ff1493;
+  font-size: 20px;
+  font-weight: 700;
 }
